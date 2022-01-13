@@ -1,0 +1,3 @@
+# ABOUT ME
+
+To get to the best solutions for any given situation, I employ data engineering, data analysis and visualization, automation, machine learning, and statistics. My diversified experience also provides me with a unique view on how numerous elements might be used to affect data in order to obtain the desired results. I like studying and integrating diverse algorithms into projects to tackle societal problems since I have excellent overall coding skills, critical thinking abilities, and a keen interest in Machine and Deep learning. Cultivating relationships with other people in order to have a positive influence on the world via our job is a passion of mine.
